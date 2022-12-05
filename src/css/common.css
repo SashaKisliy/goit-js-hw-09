@@ -16,3 +16,24 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  margin-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+
+.field {
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 3px;
+  background-color: rgb(5, 173, 13);
+}
+
+.value {
+  color: #fafafa;
+}
+
+.label {
+  color: hsl(61, 78%, 49%);
+}
